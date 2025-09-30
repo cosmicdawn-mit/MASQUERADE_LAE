@@ -1,8 +1,5 @@
-This directory contains the code used for the MASQUERADE LAE paper.
+# Code for "Escape fractions from unattenuated Ly\alpha emitters around luminous z>6 quasars"
 
-The subdirectories contain:
+This directory holds the code used for paper "Escape fractions from unattenuated Ly\alpha emitters around luminous z>6 quasars"  (arxiv: 2507.05381). The reduced spectra are stored at zenodo: 10.5281/zenodo.17188911.
 
-- msa_reduction: the reduction and extraction of the MSA data.
-- spectra_analysis: fitting the Lya and CIV lines for the galaxies
-- paper_plots: Analyzing the fitted Lya fluxes, and make plots in the paper.
-
+If you have questions please find me at yuemh@arizona.edu.
